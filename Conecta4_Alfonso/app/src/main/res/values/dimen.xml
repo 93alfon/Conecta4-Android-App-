@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Alfonso Bonilla Trueba -->
+<resources>
+    <dimen name="title_size">24dp</dimen>
+    <dimen name="activity_vertical_margin">20dp</dimen>
+    <dimen name="activity_horizontal_margin">20dp</dimen>
+    <dimen name="size_mini_view">70dp</dimen>
+    <dimen name="login_margin_top_portrait">30dp</dimen>
+    <dimen name="login_padding">18dp</dimen>
+    <dimen name="login_first_text_view_text_size">40sp</dimen>
+    <dimen name="login_first_text_view_margin_bottom">20dp</dimen>
+    <dimen name="login_buttons_margin_top">18dp</dimen>
+    <dimen name="login_screen_padding">40dp</dimen>
+    <dimen name="login_landscape_width">400dp</dimen>
+    <dimen name="size_progress_bar">60dp</dimen>
+</resources>

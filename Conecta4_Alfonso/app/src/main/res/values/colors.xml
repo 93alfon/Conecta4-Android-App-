@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Alfonso Bonilla Trueba -->
+
+<resources>
+
+    <!-- Colores Interfaz usuario -->
+    <color name="colorPrimary">#006699</color>
+    <color name="colorPrimaryDark">#006699</color>
+    <color name="colorAccent">#125f96</color>
+    <color name="colorBackgroundLogin">#006699</color>
+
+    <!-- Colores Fichas -->
+    <color name="colorPlayer1_1">#d2332e</color>
+    <color name="colorPlayer2_1">#eade37</color>
+    <color name="colorPlayer1_2">#285fbf</color>
+    <color name="colorPlayer2_2">#52cf48</color>
+    <color name="colorPlayer1_3">#e23ae0</color>
+    <color name="colorPlayer2_3">#fa8830</color>
+
+
+    <color name="colorEmptyPlayer">#6b6969</color>
+
+    <color name="colorBoardBackground">#201f1f</color>
+
+    <color name="colorTextList">#8db600</color>
+
+    <color name="colorRestart">#8db600</color>
+
+    <color name="winnerbackground">#afdb6e</color>
+    <color name="looserbackground">#db6e79</color>
+
+</resources>

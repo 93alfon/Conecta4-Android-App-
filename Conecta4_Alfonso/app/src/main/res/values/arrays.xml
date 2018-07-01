@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Alfonso Bonilla Trueba -->
+<resources>
+
+    <!-- Sizes of Board -->
+    <string-array name="array_sizes_text">
+        <item>@string/square_board</item>
+        <item>@string/classic_board</item>
+        <item>@string/big_board</item>
+    </string-array>
+    <string-array name="array_sizes_values">
+        <item>4</item>
+        <item>7</item>
+        <item>9</item>
+    </string-array>
+
+    <!-- Colors of the players -->
+    <string-array name="array_colors_player">
+        <item>@string/red_yellow</item>
+        <item>@string/blue_green</item>
+        <item>@string/pink_orange</item>
+    </string-array>
+    <string-array name="array_colors_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+
+    <!-- Language APP -->
+    <string-array name="array_languages">
+        <item>@string/lang_es</item>
+        <item>@string/lang_en</item>
+        <item>@string/lang_fr</item>
+    </string-array>
+    <string-array name="array_languages_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+
+</resources>

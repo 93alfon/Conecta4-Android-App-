@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "839464010788",
+    "firebase_url": "https://conecta4-alfonso.firebaseio.com",
+    "project_id": "conecta4-alfonso",
+    "storage_bucket": "conecta4-alfonso.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:839464010788:android:78c128561f2ce956",
+        "android_client_info": {
+          "package_name": "conecta4.eps.uam.es.conecta4_alfonso"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "839464010788-bssi9hr6ga1k8iaupoqss7p0d1mhaaqb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "conecta4.eps.uam.es.conecta4_alfonso",
+            "certificate_hash": "718d9df20a787a991b7edfad65a0a35dd571c9b3"
+          }
+        },
+        {
+          "client_id": "839464010788-adgn3orq2biu4n0thou12pl6rje2casb.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "839464010788-adgn3orq2biu4n0thou12pl6rje2casb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBR11DvspfAAzwF3_O_oebgX7j8PXi42vg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "839464010788-adgn3orq2biu4n0thou12pl6rje2casb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

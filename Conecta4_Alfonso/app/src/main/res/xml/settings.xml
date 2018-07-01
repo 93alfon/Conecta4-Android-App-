@@ -1,0 +1,43 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <PreferenceCategory android:title="@string/category_board">
+        <ListPreference
+            android:defaultValue="7"
+            android:entries="@array/array_sizes_text"
+            android:entryValues="@array/array_sizes_values"
+            android:key="boardsize"
+            android:summary="@string/summary_board_size"
+            android:title="@string/board_size_text"/>
+        <ListPreference
+            android:defaultValue="2"
+            android:entries="@array/array_colors_player"
+            android:entryValues="@array/array_colors_values"
+            android:key="colorplayer"
+            android:summary="@string/summary_player_color"
+            android:title="@string/player_color_text" />
+    </PreferenceCategory>
+
+    <PreferenceCategory android:title="@string/category_app">
+        <ListPreference
+            android:defaultValue="1"
+            android:key="language_option"
+            android:title="@string/language_settings"
+            android:summary="@string/language_summary"
+            android:entries="@array/array_languages"
+            android:entryValues="@array/array_languages_values"/>
+
+        <CheckBoxPreference
+            android:key="play_music"
+            android:summary="@string/summary_music"
+            android:title="@string/music_text"
+            android:defaultValue="false"/>
+
+        <!--<CheckBoxPreference-->
+            <!--android:key="sounds"-->
+            <!--android:summary="@string/summary_sound"-->
+            <!--android:title="@string/sound_text"-->
+            <!--android:defaultValue="false"/>-->
+
+   </PreferenceCategory>
+
+</PreferenceScreen>

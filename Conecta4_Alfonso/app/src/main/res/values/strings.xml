@@ -1,0 +1,77 @@
+<!-- Alfonso Bonilla Trueba-->
+<resources>
+    <string name="app_name">Conecta 4</string>
+    <string name="title">Tablero</string>
+    <string name="invalid_movement">Movimiento Invalido</string>
+    <string name="round_already_finished">La partida ya ha terminado</string>
+    <string name="game_over">Fin de la Partida</string>
+    <string name="new_round">Nueva Partida</string>
+    <string name="game_over_message">¿Quieres Jugar otra partida?</string>
+    <string name="yes_dialog">Sí</string>
+    <string name="no_dialog">No</string>
+    <string name="ok_dialog">Ok</string>
+    <string name="round_restarted">Partida reiniciada</string>
+    <string name="waiting_opponent">Esperando contrincante…</string>
+    <string name="not_your_turn">No es tu turno</string>
+
+    <!-- Strings Settings -->
+    <string name="settings">Ajustes</string>
+    <string name="category_board">Personalización del tablero</string>
+    <string name="category_app">Configuración de la aplicación</string>
+
+    <string name="music_text">Música</string>
+    <string name="summary_music">Pulsa si quieres escuchar Música</string>
+
+    <string name="sound_text">Sonidos</string>
+    <string name="summary_sound">Pulsa si quieres efectos de Sonido</string>
+
+    <!-- String Size of Board -->
+    <string name="board_size_text">Tamaño del Tablero</string>
+    <string name="summary_board_size">Elige el tamaño del Tablero</string>
+    <string name="square_board">Cuadrado (4 x 4)</string>
+    <string name="classic_board">Clásico (7 x 6)</string>
+    <string name="big_board">Grande (9 x 8)</string>
+
+    <!-- String Colors Players -->
+    <string name="player_color_text">Color Fichas</string>
+    <string name="summary_player_color">Cambia los colores de las partidas</string>
+    <string name="red_yellow">Rojo vs Amarillo</string>
+    <string name="blue_green">Azul vs Verde</string>
+    <string name="pink_orange">Rosa vs Naranja</string>
+
+    <!-- String Languages -->
+    <string name="language_settings">Idioma</string>
+    <string name="language_summary">Cambia el idioma de la aplicación</string>
+    <string name="lang_es">Español</string>
+    <string name="lang_en">English</string>
+    <string name="lang_fr">Français</string>
+
+    <!-- String Login -->
+    <string name="login_first_text_view_text">Conecta 4</string>
+    <string name="login_first_edit_text_hint">Nombre de usuario</string>
+    <string name="login_email_hint">Correo electrónico</string>
+    <string name="login_second_edit_text_hint">Contraseña</string>
+    <string name="login_login_button_text">Entrar</string>
+    <string name="login_cancel_button_text">Salir</string>
+    <string name="login_new_user_button_text">Nuevo usuario</string>
+    <string name="login_alert_dialog_title">Error</string>
+    <string name="login_alert_dialog_message">Login fallido</string>
+    <string name="register_alert_dialog_message">Debes completar todos los campos para realizar el registro</string>
+    <string name="login_alert_dialog_neutral_button_text">Inténtelo de nuevo</string>
+    <string name="bad_address">Correo electrónico inválido</string>
+    <string name="invalid_password">La contraseña debe de tener 6 caracteres como mínimo</string>
+    <string name="bad_password">Contraseña incorrecta</string>
+    <string name="email_in_use">Correo electrónico ya en uso</string>
+    <string name="no_internet">No hay conexión a internet</string>
+
+    <!-- String BBDD -->
+    <string name="error_reading_rounds">Error leyendo partidas</string>
+    <string name="error_adding_round">"Error al añadir la partida"</string>
+    <string name="error_updating_round">Error actualizando la partida</string>
+    <string name="repository_opening_error">Error abriendo el repositorio</string>
+
+    <string name="logout">Cerrar Sesión</string>
+    <string name="logout_question">¿Quieres cerrar la sesión?</string>
+
+
+</resources>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Alfonso Bonilla Trueba-->
+<resources>
+    <string name="app_name">Conecta 4</string>
+    <string name="title">Tour</string>
+    <string name="invalid_movement">Mouvement invalide</string>
+    <string name="round_already_finished">Le jeu est fini</string>
+    <string name="game_over">Jeu terminé</string>
+    <string name="new_round">Nouveau Départ</string>
+    <string name="game_over_message">Voulez-vous jouer un autre tour?</string>
+    <string name="yes_dialog">Oui</string>
+    <string name="no_dialog">Non</string>
+    <string name="ok_dialog">Ok</string>
+    <string name="round_restarted">Tour recommencé</string>
+
+    <!-- Strings Settings -->
+    <string name="settings">Paramètres</string>
+    <string name="category_board">Personnalisation du tableau</string>
+    <string name="category_app">Configuration de l\'application</string>
+
+    <string name="music_text">Musique</string>
+    <string name="summary_music">Appuyez sur si vous voulez écouter de la musique</string>
+
+    <string name="sound_text">Sons</string>
+    <string name="summary_sound">Appuyez sur si vous voulez des effets sonores</string>
+
+    <!-- String Size of Board -->
+    <string name="board_size_text">Taille de la planche</string>
+    <string name="summary_board_size">Choisissez la taille du conseil</string>
+    <string name="square_board">Carré (4 x 4)</string>
+    <string name="classic_board">Classique (7 x 6)</string>
+    <string name="big_board">Gros (9 x 8)</string>
+
+    <!-- String Colors Players -->
+    <string name="player_color_text">Jeton de couleur</string>
+    <string name="summary_player_color">Changer les couleurs des jeux</string>
+    <string name="red_yellow">Rouge vs Jaune</string>
+    <string name="blue_green">Bleu vs Vert</string>
+    <string name="pink_orange">Rose vs Orange</string>
+
+    <!-- String Languages -->
+    <string name="language_settings">Langage</string>
+    <string name="language_summary">Changer langue de l\'application</string>
+    <string name="lang_es">Español</string>
+    <string name="lang_en">English</string>
+    <string name="lang_fr">Français</string>
+
+    <!-- String Login -->
+    <string name="login_first_text_view_text">Conecta 4</string>
+    <string name="login_first_edit_text_hint">Nom d\'utilisateur</string>
+    <string name="login_second_edit_text_hint">Mot de passe</string>
+    <string name="login_login_button_text">S\'identifier</string>
+    <string name="login_cancel_button_text">Quitter</string>
+    <string name="login_new_user_button_text">Nouvel utilisateur</string>
+    <string name="login_alert_dialog_title">Erreur</string>
+    <string name="login_alert_dialog_message">Échec de la connexion</string>
+    <string name="register_alert_dialog_message">Vous devez remplir tous les champs pour vous inscrire</string>
+    <string name="login_alert_dialog_neutral_button_text">Réessayer</string>
+
+    <!-- String BBDD -->
+    <string name="error_reading_rounds">Erreur de lecture des jeux</string>
+    <string name="error_adding_round">Erreur lors de l\'ajout du jeu</string>
+    <string name="error_updating_round">Erreur de mise à jour du jeu</string>
+    <string name="repository_opening_error">Erreur lors de l\'ouverture du référentiel</string>
+
+    <string name="logout">Déconnexion</string>
+    <string name="logout_question">Voulez-vous fermer la session?</string>
+    <string name="login_email_hint">Courrier électronique</string>
+    <string name="waiting_opponent">Adversaire en attente…</string>
+    <string name="not_your_turn">Ce n\'est pas ton tour</string>
+    <string name="bad_address">Email invalide</string>
+    <string name="email_in_use">L\'adresse e-mail est déjà</string>
+    <string name="bad_password">Mot de passe incorrect</string>
+    <string name="invalid_password">Le mot de passe doit contenir au moins 6 caractères</string>
+    <string name="no_internet">Il n\'y a pas de connexion internet</string>
+
+</resources>
